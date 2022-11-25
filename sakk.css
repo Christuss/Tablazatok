@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+    border-collapse:collapse; 
+    color: white;
+    font-size: 40px;
+}
+td {
+    width: 40px;
+    height: 100px;
+}
+th {
+    background-color: black;
+    width: 40px;
+    height: 100px;
+}
+tbody .sotet {
+    background-color: lightgray;
+}
